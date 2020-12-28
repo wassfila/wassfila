@@ -1,16 +1,19 @@
-### Hi there 👋
+- ⚡ Most recent website
+[<img src="controllers.png" width=40>](https://smartcontrollers.github.io/)
+[Smart Controllers](https://smartcontrollers.github.io/)
 
-<!--
-**wassfila/wassfila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💬 Ask me about
 
-Here are some ideas to get you started:
+![](https://img.shields.io/badge/HW-Microcontrollers-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=1b6c4a)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://img.shields.io/badge/HW-Sensors-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=1b6c4a)
+
+![](https://img.shields.io/badge/HW-Embedded-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=1b6c4a)
+
+![](https://img.shields.io/badge/HW-GPU-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=1b6c4a)
+
+![](https://img.shields.io/badge/SW-ML-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=1b6c4a)
+
+![](https://img.shields.io/badge/SW-Web-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=1b6c4a)
+
+![](https://img.shields.io/badge/Network-Mesh-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=1b6c4a)
