@@ -1,6 +1,4 @@
-- ✒ Portfolio website
-[<img src="portfolio.png" width=40>](https://wassfila.github.io/)
-[wassfila portfolio](https://wassfila.github.io/)
-- ⚡ Tech Doc website
-[<img src="controllers.png" width=40>](https://smartcontrollers.github.io/)
-[Smart Controllers](https://smartcontrollers.github.io/)
+|  |  | |
+| --- | --- | - |
+| 🏠 [home smart mesh](https://homesmartmesh.github.io/) | [<img src="hsm.png" width=60>](https://homesmartmesh.github.io/) | Sensors and Software projects |
+| ✒ [Portfolio](https://wassfila.github.io/) | [<img src="portfolio.png" width=40>](https://wassfila.github.io/) | CV, Career and Projects |
