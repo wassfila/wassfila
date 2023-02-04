@@ -21,6 +21,7 @@ and many other projects using ESP32, nRF52, Zigbee, UWB, 3D Printing,...
 
 ## What I'm working on
 
+* [Web Discussions](https://github.com/orgs/MicroWebStacks/discussions) about the future of Web and frameworks usage (Caching, data-binding,...)
 * [Astro Big Doc](https://astro.build/themes/details/astro-big-doc/) is a Theme for a novel web framework `Astrojs` improves Developper Experience getting closer to web standards and benefit users with a more efficient internet. It is mainly helps with generating components on server side with javascript.
 * [Benchmark Examples](https://github.com/MicroWebStacks/astro-examples) Evaluating different design patterns and usage performance, state management, caching,...
 
