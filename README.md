@@ -6,7 +6,7 @@ You have a feedback or an idea to discuss ? Let's talk on the [Discussions](http
 
 ## What I've done
 
-* [Home Automation Framework](https://github.com/HomeSmartMesh/raspi) Control light, automate heating to save energy, Monitor sensors. It is using Python and Nodejs services and apps running on a raspberry pi. It is used as a DIY home automation experimentation field that has no limits. This is running in real world example and being maintained.
+* [Home Automation Framework](https://github.com/HomeSmartMesh/raspi) Control light, save energy with heating automations, monitor sensors. It is using Python and Nodejs services and apps running on a raspberry pi using Zigbee and wifi devices. It is used as a DIY home automation experimentation field that has no limits. This is running in real world example and being maintained.
 * [Smart Home 3D webapp](https://github.com/HomeSmartMesh/smart_home_3d_webapp) Create your own Home with Fusion360/Blender and import in Three.js then interact with 3d elements using clicks and sliders. A concept to connect 3D properties and animations with real MQTT sensors.
 * [Voronoi Editor](https://github.com/WebSVG/voronoi) A parametric Voronoi generator with real time editing and SVG export hosted as a free webapp.
 * [Thread SensorTag](https://www.homesmartmesh.com/docs/microcontrollers/nrf52/thread_sensortag/), [repo](https://github.com/HomeSmartMesh/sdk-hsm-sensortag) an Ultralow power sensor hardware that supports "Thread" the Mesh network protocol used by "Matter"
