@@ -18,12 +18,15 @@ and many other projects using ESP32, nRF52, Zigbee, UWB, 3D Printing,...
 ## What I contributed to
 * [Super Power](https://github.com/SuperPower) Low power battery charcher Project. I was part of core Team of a Big community (thousands of members), website creation, hardware conception,...
 * [Open source Research](https://thesoundofaiosr.github.io/) Machine Learning for Guitar sounds generation. Co-Manager of a big community project 140 Members working in 7 research groups lead by professional volunteer researchers, resulting in a [published Article](https://aimusiccreativity.org/2022-aimc/#:~:text=The%20Sound%20of%20AI%20Community).
-
-## What I'm working on
-
-* [Web Discussions](https://github.com/orgs/MicroWebStacks/discussions) about the future of Web and frameworks usage (Caching, data-binding,...)
+## latest contributions
 * [Astro Big Doc](https://astro.build/themes/details/astro-big-doc/) is a Theme for a novel web framework `Astrojs` improves Developper Experience getting closer to web standards and benefit users with a more efficient internet. It is mainly helps with generating components on server side with javascript.
 * [Benchmark Examples](https://github.com/MicroWebStacks/astro-examples) Evaluating different design patterns and usage performance, state management, caching,...
+* [Air quality wireless sensor](https://github.com/HomeSmartMesh/sdk-hsm-thingy53) BME688 driver integration in Zephyr RTOS within a Thread based application on the Thingy53 development kit.
+
+## My current focus
+
+* [VectorMind](https://github.com/VectorMind/VectorMind/wiki) Data science with focus on ML and LLM for knowledge mining.
+* [Web Discussions](https://github.com/orgs/MicroWebStacks/discussions) about the future of Web and frameworks usage (Data representation, Caching, data-binding,...)
 
 ## My career
 * ✒ [Portfolio](https://wassfila.github.io/) CV, Career and Projects
