@@ -25,7 +25,7 @@ and many other projects using ESP32, nRF52, Zigbee, UWB, 3D Printing,...
 
 ## My current focus
 
-* [VectorMind](https://github.com/VectorMind/VectorMind/wiki) Data science with focus on ML and LLM for knowledge mining.
+* [VectorWisdom](https://github.com/VectorWisdom/VectorWisdom/wiki) Data science with focus on ML and LLM for knowledge mining.
 * [Web Discussions](https://github.com/orgs/MicroWebStacks/discussions) about the future of Web and frameworks usage (Data representation, Caching, data-binding,...)
 
 ## My career
