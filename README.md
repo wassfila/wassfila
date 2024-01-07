@@ -20,8 +20,14 @@ and many other projects using ESP32, nRF52, Zigbee, UWB, 3D Printing,...
 * [Open source Research](https://thesoundofaiosr.github.io/) Machine Learning for Guitar sounds generation. Co-Manager of a big community project 140 Members working in 7 research groups lead by professional volunteer researchers, resulting in a [published Article](https://aimusiccreativity.org/2022-aimc/#:~:text=The%20Sound%20of%20AI%20Community).
 ## latest contributions
 * [Astro Big Doc](https://astro.build/themes/details/astro-big-doc/) is a Theme for a novel web framework `Astrojs` improves Developper Experience getting closer to web standards and benefit users with a more efficient internet. It is mainly helps with generating components on server side with javascript.
-* [Benchmark Examples](https://github.com/MicroWebStacks/astro-examples) Evaluating different design patterns and usage performance, state management, caching,...
+* [Astro web Examples](https://github.com/MicroWebStacks/astro-examples) Evaluating different design patterns and usage performance, state management, caching,...
 * [Air quality wireless sensor](https://github.com/HomeSmartMesh/sdk-hsm-thingy53) BME688 driver integration in Zephyr RTOS within a Thread based application on the Thingy53 development kit.
+
+## popular contributions
+* ![GitHub Repo stars](https://img.shields.io/github/stars/WebSVG/voronoi) [Voronoi Editor](https://github.com/WebSVG/voronoi)
+* ![GitHub Repo stars](https://img.shields.io/github/stars/MicroWebStacks/astro-examples) [Astro web Examples](https://github.com/MicroWebStacks/astro-examples)
+* ![GitHub Repo stars](https://img.shields.io/github/stars/nRFMesh/nRF52_Mesh) [nRF52 Mesh](https://github.com/nRFMesh/nRF52_Mesh)
+* ![GitHub Repo stars](https://img.shields.io/github/stars/HomeSmartMesh/smart_home_3d_webapp) [Smart Home 3D webapp](https://github.com/HomeSmartMesh/smart_home_3d_webapp) 
 
 ## My current focus
 
