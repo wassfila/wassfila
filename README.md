@@ -1,6 +1,6 @@
 # Hey, I'm Wassim!
 
-I like to develop innovative open source projects ranging from web development to raspberry pi and microcontrollers.
+I like to develop innovative open source projects from home automation services to web apps and from servers to microcontrollers.
 
 You have a feedback or an idea to discuss ? Let's talk on the [Discussions](https://github.com/wassfila/wassfila/discussions) section.
 
